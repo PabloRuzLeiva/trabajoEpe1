@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IPCHILE - NO FAKE - 1 LINK + CRACK</string>
+    <string name="txt_titulo">CALCULADORA</string>
+    <string name="txt_EPR1">INGRESA NOTA EPR1</string>
+    <string name="txt_EPE1">INGRESA NOTA EPE1</string>
+    <string name="txt_EPR2">INGRESA NOTA EPR2</string>
+    <string name="txt_EPE2">INGRESA NOTA EPE2</string>
+    <string name="txt_EVA1">INGRESA EVA1</string>
+    <string name="txt_EVA2">INGRESA EVA 2</string>
+    <string name="txt_EVA3">INGRESA EVA 3</string>
+    <string name="txt_EVA4">INGRESA EVA 4</string>
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="fl_epr1" />
+    <string name="title_activity_formulario">FormularioActivity</string>
+</resources>
